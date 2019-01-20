@@ -1,6 +1,6 @@
 # O Projeto
 
-## Pré requisitos
+## Pré-requisitos
 
 * Instalar Ruby + DevKit 
 * Instalar o Bundler e executá-lo

@@ -1,6 +1,6 @@
 require 'selenium-webdriver'
 
-# Store command line arguments
+# Store command line argument
 $browser_type = 'firefox'
 
 begin
